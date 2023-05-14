@@ -2,8 +2,8 @@ project:
   type: book
 
 book:
-  title: "coastal_sov_book"
-  author: "Norah Jones"
+  title: "A Guide to Indigenous Co-Management and Food Sovereignty in the Pacific Coast of North America"
+  author: "Conner Smith"
   date: "5/14/2023"
   chapters:
     - index.qmd
