@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "A Guide to Indigenous Co-Management and Food Sovereignty in the Pacific Coast of North America",
+    "section": "",
+    "text": "Resource Overview\nIndigenous people are the original stewards of the coast and seas of the Pacific Coast region. They maintain a font of knowledge that is essential in understanding the state of coastal ecosystems and their fate in a changing climate. This resource seeks to honor that legacy by collecting different accounts, studies, and programs that promote Indigenous perspectives in coastal ecosystem stewardship. It seeks to both explore existing examples where Indigenous communities are managing resources in tandem with settler governments (or “co-management”) as well as issues related to food sovereignty with respect to both wild harvest and cultivated foods. While focused on multiple regions of the Pacific Coast, the resource will highlight resources with particular relevance to California.\nCo-management is becoming a reality across fisheries, aquaculture operations, and protected area management throughout the Pacific Coast. Government-to-government relationships have been strengthened in several regions with Native people (re)gaining decision making power in some cases. There are several formalized examples of this in Washington and Canada, with other important lessons from regions with strong Indigenous fishing, aquaculture, and coastal stewardship practices like Alaska and Hawai’i. California, while behind other states, is beginning to explore this model in the governance of the state’s marine protected area (MPA) network.\nThere are many pathways towards restoring the ancestral responsibilities of coastal Indigenous people, and co-management is not always the preferred outcome. The government-to-government agreement does not fit cases where Indigenous groups do not have federal recognition in the United States. The second section of this guide is dedicated to food sovereignty, seen as an essential component of cultural connectivity and self-determination for Indigenous people around the world. Food sovereignty can exist both within and outside of conversations of c-management. This guide explores perspectives on food sovereignty through both wild harvest of marine resources as well as long-practiced aquaculture methods throughout the region.\nThe guide concludes with a review of existing partnerships across Indigenous communities that sometimes include collaboration with non-Indigenous entities. These collaborative efforts are becoming more visible and providing opportunities to pursue research and policy that incorporate both Western and Indigenous ways of knowing.\nThis is not a comprehensive account of all co-management or food sovereignty cases in the Pacific Coast. It should be noted that resources pertaining to Mexico have been left out of this list. I made this decision for two reasons: 1) a lack of personal familiarity with Indigenous perspectives and scholarship in Mexico, and 2) differences in political contexts that make policy transferability unclear. There are countries with more policy resonance (New Zealand and Australia, in particular), that were excluded at this time following the intention to highlight connections between dispersed geographies. It is my hope that this resource will be continually improved and others with more knowledge will be able to fill in the gaps.\nConner Smith, the primary author of this resource, is a white settler residing in unceded Chumash lands. He hails from unceded lands of the Catawba, Sugaree, and Waxhaw in what is now North Carolina. Inspiration for this project was drawn from the work of Phoebe Racine on cataloging resources pertaining to Indigenous data sovereignty"
+  },
+  {
+    "objectID": "index.html#a-note-on-language",
+    "href": "index.html#a-note-on-language",
+    "title": "A Guide to Indigenous Co-Management and Food Sovereignty in the Pacific Coast of North America",
+    "section": "A Note on Language",
+    "text": "A Note on Language\nThis resource will use “Indigenous,” “Native,” and “First Nations” somewhat interchangeably throughout. “Indigenous” is meant to confer the broadest recognition across cultures. “Native” is more contextual to the United States, where “Native American” is a term often used by the federal government. “First Nations” is an analogous term common in Canada. “Tribe” will be used sparingly and specifically in the context of legal agreements or self-identifications (e.g. Coast Treaty Tribes). This generally follows guidance from the Native Governance Center."
+  },
+  {
+    "objectID": "index.html#open-access",
+    "href": "index.html#open-access",
+    "title": "A Guide to Indigenous Co-Management and Food Sovereignty in the Pacific Coast of North America",
+    "section": "Open Access",
+    "text": "Open Access\nThis is meant to be a “living” document. This book was produced using Quarto in R Studio and all code can be accessed in this GitHub repository. Any researchers wishing to become a collaborator on this repository can reach out to the primary author at connermuir@berkeley.edu. Contributors wishing to add a resource or provide comments on the presentation of the material in the list can also pass requests through to the email address above."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  }
+]

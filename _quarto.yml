@@ -6,7 +6,7 @@ book:
   author: "Conner Smith"
   date: "5/14/2023"
   chapters:
-    - index.qmd
+    - overview.qmd
     - intro.qmd
     - summary.qmd
     - references.qmd
