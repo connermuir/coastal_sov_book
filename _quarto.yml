@@ -6,12 +6,15 @@ book:
   author: "Conner Smith"
   date: "5/14/2023"
   chapters:
-    - overview.qmd
+    - index.qmd
     - native_lands.qmd
     - co_mgmt.qmd
     - food_sov.qmd
     - research.qmd
 
+execute:
+  echo: false
+  
 bibliography: references.bib
 
 format:

@@ -21,24 +21,17 @@
     "text": "Open Access\nThis is meant to be a “living” document. This book was produced using Quarto in R Studio and all code can be accessed in this GitHub repository. Any researchers wishing to become a collaborator on this repository can reach out to the primary author at connermuir@berkeley.edu. Contributors wishing to add a resource or provide comments on the presentation of the material in the list can also pass requests through to the email address above."
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
+    "objectID": "native_lands.html",
+    "href": "native_lands.html",
+    "title": "1  Native Lands",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "All lands and seas in North America were once stewarded by Indigenous peoples before the arrival of colonists from Europe. Roxanne Dunbar-Ortiz’s An Indigenous Peoples’ History of the United States(2015) is one resource that provides an overview of Native nations and cultures and the legacy of oppression that led to the removal of many from their ancestral lands. The following resources provide an introduction to whose lands are occupied by settler governments with a focus on the United States and Canada.\n\n\n\n\n\nFigure 0.1: Chumash villages and surrounding Native lands (Source: Wikipedia Commons)\nNative Land Interactive Map Native Land Digital. 2023.\nThis global map – produced by a Canadian non-profit led by First Nations people – provides an overlapping view of Indigenous territory throughout the world. This is more inclusive of different subgroups compared with other resources and provides a way to view ancestral territory throughout the Pacific Coast region.\nU.S. Domestic Sovereign Nations: Land Areas of Federally-Recognized Tribes Bureau of Indian Affairs. 2023.\nThis resource is maintained by the Bureau of Indian Affairs under the U.S. Department of the Interior. According to the Bureau, it shows “the external extent of Federal Indian reservations, land held in ‘trust’ by the United States, ‘restricted fee’ or ‘mixed ownership’ tracts for Federally-recognized tribes and individual Indians.” This is not a complete listing of Native lands in the United States. Rather, it shows the current extent of what the federal government recognizes as Native Land.\nCalifornia Native American Ancestral Lands Los Padres Forest Watch. 2021.\nThis interactive map, built by a non-Indigenous organization in ArcGIS, provides an incomplete, high-level overview of traditional Native territory throughout California. It does not include all of the Native nations and cultures in the State, but provides a helpful interactive tool to explore the overlay of traditional territory with current land use patterns including state and federally designated protected lands.\nNAHC Digital Atlas California Native American Heritage Commission. 2023.\nThis is a state-produced resource with additional information on population distribution, historical events, trade routes, missions, and other data pertaining to Native history in California. The Commission also hosts a written summary of this history and database of Native groups available on the main website."
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
+    "objectID": "co_mgmt.html",
+    "href": "co_mgmt.html",
     "title": "2  Summary",
     "section": "",
     "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   }
 ]
