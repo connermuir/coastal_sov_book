@@ -7,9 +7,10 @@ book:
   date: "5/14/2023"
   chapters:
     - overview.qmd
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
+    - native_lands.qmd
+    - co_mgmt.qmd
+    - food_sov.qmd
+    - research.qmd
 
 bibliography: references.bib
 
