@@ -1,6 +1,6 @@
 # Native Lands
 
-All lands and seas in North America were once stewarded by Indigenous peoples before the arrival of colonists from Europe. Roxanne Dunbar-Ortiz’s [An Indigenous Peoples’ History of the United States](http://www.beacon.org/An-Indigenous-Peoples-History-of-the-United-States-P1164.aspx) (2015) is one resource that provides an overview of Native nations and cultures and the legacy of oppression that led to the removal of many from their ancestral lands. The following resources provide an introduction to whose lands are occupied by settler governments with a focus on the United States and Canada. 
+All lands and seas in North America were once stewarded by Indigenous peoples before the arrival of colonists from Europe. Roxanne Dunbar-Ortiz's [An Indigenous Peoples' History of the United States](http://www.beacon.org/An-Indigenous-Peoples-History-of-the-United-States-P1164.aspx) (2015) is one resource that provides an overview of Native nations and cultures and the legacy of oppression that led to the removal of many from their ancestral lands. The following resources provide an introduction to whose lands are occupied by settler governments with a focus on the United States and Canada.
 
 ```{r}
 knitr::include_graphics(here::here("photos", "chumash.png"))
@@ -8,26 +8,26 @@ knitr::include_graphics(here::here("photos", "chumash.png"))
 
 *Figure 0.1: Chumash villages and surrounding Native lands (Source: [Wikipedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Chumash_villages.svg/1176px-Chumash_villages.svg.png))*
 
-**[Native Land Interactive Map](https://native-land.ca/)**
+[**Native Land Interactive Map**](https://native-land.ca/)
 
-*Native Land Digital. 2023.*
+**Native Land Digital. 2023.**
 
-This global map – produced by a Canadian non-profit led by First Nations people – provides an overlapping view of Indigenous territory throughout the world. This is more inclusive of different subgroups compared with other resources and provides a way to view ancestral territory throughout the Pacific Coast region.  
+This global map -- produced by a Canadian non-profit led by First Nations people -- provides an overlapping view of Indigenous territory throughout the world. This is more inclusive of different subgroups compared with other resources and provides a way to view ancestral territory throughout the Pacific Coast region.
 
-**[U.S. Domestic Sovereign Nations: Land Areas of Federally-Recognized Tribes](https://biamaps.doi.gov/indianlands/)**
+[**U.S. Domestic Sovereign Nations: Land Areas of Federally-Recognized Tribes**](https://biamaps.doi.gov/indianlands/)
 
-*Bureau of Indian Affairs. 2023.*
+**Bureau of Indian Affairs. 2023.**
 
-This resource is maintained by the Bureau of Indian Affairs under the U.S. Department of the Interior. According to the Bureau, it shows “the external extent of Federal Indian reservations, land held in ‘trust’ by the United States, ‘restricted fee’ or ‘mixed ownership’ tracts for Federally-recognized tribes and individual Indians.” This is not a complete listing of Native lands in the United States. Rather, it shows the *current extent of what the federal government recognizes as Native Land.*
+This resource is maintained by the Bureau of Indian Affairs under the U.S. Department of the Interior. According to the Bureau, it shows "the external extent of Federal Indian reservations, land held in 'trust' by the United States, 'restricted fee' or 'mixed ownership' tracts for Federally-recognized tribes and individual Indians." This is not a complete listing of Native lands in the United States. Rather, it shows the *current extent of what the federal government recognizes as Native Land.*
 
-**[California Native American Ancestral Lands](https://www.arcgis.com/apps/webappviewer/index.html?id=f178c6d7581e4d45ad7ce68c52a1863e&extent=-13593425.3853%2C4085629.1882%2C-13117987.0693%2C4385568.0871%2C102100)**
+[**California Native American Ancestral Lands**](https://www.arcgis.com/apps/webappviewer/index.html?id=f178c6d7581e4d45ad7ce68c52a1863e&extent=-13593425.3853%2C4085629.1882%2C-13117987.0693%2C4385568.0871%2C102100)
 
-*Los Padres Forest Watch. 2021.*
+**Los Padres Forest Watch. 2021.**
 
-This interactive map, built by a non-Indigenous organization in ArcGIS, provides an incomplete, high-level overview of traditional Native territory throughout California. It does not include all of the Native nations and cultures in the State, but provides a helpful interactive tool to explore the overlay of traditional territory with current land use patterns including state and federally designated protected lands. 
+This interactive map, built by a non-Indigenous organization in ArcGIS, provides an incomplete, high-level overview of traditional Native territory throughout California. It does not include all of the Native nations and cultures in the State, but provides a helpful interactive tool to explore the overlay of traditional territory with current land use patterns including state and federally designated protected lands.
 
-**[NAHC Digital Atlas](https://cnra.maps.arcgis.com/apps/View/index.html?appid=03512d83d12b4c3389281e3a0c25a78f&extent=-130.0858,31.7873,-109.6622,42.6447)**
+[**NAHC Digital Atlas**](https://cnra.maps.arcgis.com/apps/View/index.html?appid=03512d83d12b4c3389281e3a0c25a78f&extent=-130.0858,31.7873,-109.6622,42.6447)
 
-*California Native American Heritage Commission. 2023.*
+**California Native American Heritage Commission. 2023.**
 
-This is a state-produced resource with additional information on population distribution, historical events, trade routes, missions, and other data pertaining to Native history in California. The Commission also hosts a written summary of this history and database of Native groups [available on the main website](https://nahc.ca.gov/resources/california-indian-history/). 
+This is a state-produced resource with additional information on population distribution, historical events, trade routes, missions, and other data pertaining to Native history in California. The Commission also hosts a written summary of this history and database of Native groups [available on the main website](https://nahc.ca.gov/resources/california-indian-history/).

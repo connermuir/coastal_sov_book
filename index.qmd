@@ -12,10 +12,10 @@ This is not a comprehensive account of all co-management or food sovereignty cas
 
 *Conner Smith, the primary author of this resource, is a white settler residing in unceded Chumash lands. He hails from unceded lands of the Catawba, Sugaree, and Waxhaw in what is now North Carolina. Inspiration for this project was drawn from the work of Phoebe Racine on cataloging resources pertaining to [Indigenous data sovereignty](https://indigenous-data-envs-2022.netlify.app/data-management-tools.html) *
 
-## A Note on Language
+### A Note on Language
 
 This resource will use “Indigenous,” “Native,” and “First Nations” somewhat interchangeably throughout. “Indigenous” is meant to confer the broadest recognition across cultures. “Native” is more contextual to the United States, where “Native American” is a term often used by the federal government. “First Nations” is an analogous term common in Canada. “Tribe” will be used sparingly and specifically in the context of legal agreements or self-identifications (e.g. Coast Treaty Tribes). This generally follows guidance from the [Native Governance Center](https://nativegov.org/resources/how-to-talk-about-native-nations/).
 
-## Open Access 
+### Open Access 
 
 This is meant to be a “living” document. This book was produced using [Quarto](https://quarto.org/docs/books) in R Studio and all code can be accessed in this [GitHub repository](https://github.com/connermuir/coastal_sov_book). Any researchers wishing to become a collaborator on this repository can reach out to the primary author at **connermuir@berkeley.edu**. Contributors wishing to add a resource or provide comments on the presentation of the material in the list can also pass requests through to the email address above. 
