@@ -54,13 +54,13 @@ knitr::include_graphics(here::here("photos", "two-eye.jpg"))
 
 **Dina Gilio-Whitaker. Beacon Press. 2019.**
 
-::: {style="float:left;position: relative; top: -10px;"}
+::: {style="float:left;position: relative; top: -20px;"}
 ```{r}
 knitr::include_graphics(here::here("photos", "whitaker.jpg"))
 ```
 :::
 
-This book endeavors to reimagine contemporary environmental justice movements to account for the unique aspects of Indigenous experiences of colonization and genocide. This process, called "Indigenizing" by Gilio-Whitaker, goes beyond philosophical conversations and looks closely at how different grassroots movements and processes in environmental management work for (or against) self-determination and sovereignty for Indigenous people. It emphasizes the often overlooked role Indigenous people play in raising environmental consciousness, especially in California. It also examines the ways in which entities such as non-profits and other settler organizations can both help and hinder Indigenous self-determination. The book emphasizes the need for stronger coalitions that respect the power of Indigenous resistance to reimagine our relationships with the natural world.
+This book endeavors to reimagine contemporary environmental justice movements to account for the unique aspects of Indigenous experiences of colonization and genocide. This process, called "Indigenizing" by Gilio-Whitaker, goes beyond philosophical conversations and looks closely at how different grassroots movements and processes in environmental management work for (or against) self-determination and sovereignty for Indigenous people. It emphasizes the often overlooked role Indigenous people play in raising environmental consciousness, especially in California. It also examines the ways in which entities such as non-profits and other settler organizations can both help and hinder Indigenous self-determination. The book emphasizes the need for stronger coalitions that respect the power of Indigenous resistance to reimagine our relationships with the natural world. XXX
 
 ## Co-management Guidance and Cases
 
