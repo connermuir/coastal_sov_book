@@ -1,3 +1,8 @@
+
+```{r}
+knitr::include_graphics(here::here("photos", "redwood.jpg"))
+```
+
 # Resource Overview {.unnumbered}
 
 Indigenous people are the original stewards of the coast and seas of the Pacific Coast region. They maintain a font of knowledge that is essential in understanding the state of coastal ecosystems and their fate in a changing climate. This resource seeks to honor that legacy by collecting different accounts, studies, and programs that promote Indigenous perspectives in coastal ecosystem stewardship. It seeks to both explore existing examples where Indigenous communities are managing resources in tandem with settler governments (or “co-management”) as well as issues related to food sovereignty with respect to both wild harvest and cultivated foods. While focused on multiple regions of the Pacific Coast, the resource will highlight resources with particular relevance to California. 
