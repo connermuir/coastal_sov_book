@@ -172,23 +172,15 @@ This book considers a range of threats to ocean-based food systems with an empha
 
 This article, written by non-Native authors, poses a shift in the narrative around fisheries. Specifically, they advocate for a research and management ethos that considers "fish as food" instead of viewing fish as a commodity or resource. This view creates more space in the management discourse for food sovereignty. It also provides a helpful section reviewing the evolution of fisheries management approaches Internationally and the connection to food sovereignty themes. The authors highlight the "seven pillars" of food sovereignty developed across several multilateral meetings: 
 
-+---------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Food Sovereignty Pillar         | Description                                                                                                                                                              |
-+=================================+==========================================================================================================================================================================+
+|---------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Focuses on food for people**  | Puts people at the center of food systems policies and understands food as more than just a commodity                                                                    |
-+---------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Builds knowledge and skills** | Recognizes the value of traditional knowledge and research as a way to share experiences                                                                                 |
-+---------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Works with nature**           | Takes an ecosystems approach recognizing the interrelationships of humans with the natural systems to improve resilience and cohabitation                                |
-+---------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Values food providers**       | Values and supports sustainable livelihoods                                                                                                                              |
-+---------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Localizes food systems**      | Closer connections between food providers and eaters in practice and policy and rejects dependencies on unaccountable corporations and inappropriate food aid            |
-+---------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Puts control locally**        | Places control directly in the hands of local food providers, recognizes the need to inhabit and to share territories and rejects the privatization of natural resources |
-+---------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Food is sacred**              | Recognizes that food is a gift of life and part of people's identities                                                                                                   |
-+---------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ## Aquaculture
 

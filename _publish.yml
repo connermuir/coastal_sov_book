@@ -1,4 +1,4 @@
 - source: project
   netlify:
     - id: 13e4b80f-600f-40cc-82ae-1a7a305c00ee
-      url: 'https://coastal-sov-book.netlify.app/'
+      url: 'https://coastal-sov-book.netlify.app'
